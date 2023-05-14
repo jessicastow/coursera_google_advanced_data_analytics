@@ -24,6 +24,9 @@ When you decide to reject or fail to reject the null hypothesis, there are four 
 
 ![image](https://github.com/jessicastow/coursera_google_advanced_data_analytics/assets/56385852/70953af5-c014-4989-b474-90801ea0e2ca)
 
+One-sample tests
+
+Two-sample tests
 
 Descriptive Statistics: Understand measures of central tendency (mean, median, mode) and measures of dispersion (variance, standard deviation). Be familiar with concepts such as range, quartiles, and percentiles.
 
