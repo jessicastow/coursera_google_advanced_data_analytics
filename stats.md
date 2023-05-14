@@ -24,9 +24,14 @@ When you decide to reject or fail to reject the null hypothesis, there are four 
 
 ![image](https://github.com/jessicastow/coursera_google_advanced_data_analytics/assets/56385852/70953af5-c014-4989-b474-90801ea0e2ca)
 
-One-sample tests
+#### One-sample tests
+A one-tailed test results when the alternative hypothesis states that the actual value of a population parameter is either less than or greater than the value in the null hypothesis. 
 
-Two-sample tests
+A one-tailed test may be either left-tailed or right-tailed. A left-tailed test results when the alternative hypothesis states that the actual value of the parameter is less than the value in the null hypothesis. A right-tailed test results when the alternative hypothesis states that the actual value of the parameter is greater than the value in the null hypothesis. 
+
+#### Two-sample tests
+
+A two-tailed test results when the alternative hypothesis states that the actual value of the parameter does not equal the value in the null hypothesis.
 
 Descriptive Statistics: Understand measures of central tendency (mean, median, mode) and measures of dispersion (variance, standard deviation). Be familiar with concepts such as range, quartiles, and percentiles.
 
