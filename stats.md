@@ -32,6 +32,7 @@ A one-tailed test may be either left-tailed or right-tailed. A left-tailed test 
 #### Two-sample tests
 
 A two-tailed test results when the alternative hypothesis states that the actual value of the parameter does not equal the value in the null hypothesis.
+Used for A/B testing.
 
 Descriptive Statistics: Understand measures of central tendency (mean, median, mode) and measures of dispersion (variance, standard deviation). Be familiar with concepts such as range, quartiles, and percentiles.
 
