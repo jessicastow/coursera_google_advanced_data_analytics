@@ -6,6 +6,25 @@
 4. Sampling and estimations
 
 
+### Hypothesis testing
+
+#### Steps for conducting a hypothesis test:
+1. State the null hypothesis and the alternative hypothesis.
+2. Choose a significance level.
+3. Find the p-value.
+4. Reject or fail to reject the null hypothesis.
+
+
+When you decide to reject or fail to reject the null hypothesis, there are four possible outcomes–two represent correct choices, and two represent errors. You can: 
+
+1. Reject the null hypothesis when it’s actually true (Type I error)
+2. Reject the null hypothesis when it’s actually false (Correct)
+3. Fail to reject the null hypothesis when it’s actually true (Correct) 
+4. Fail to reject the null hypothesis when it’s actually false (Type II error)
+
+![image](https://github.com/jessicastow/coursera_google_advanced_data_analytics/assets/56385852/70953af5-c014-4989-b474-90801ea0e2ca)
+
+
 Descriptive Statistics: Understand measures of central tendency (mean, median, mode) and measures of dispersion (variance, standard deviation). Be familiar with concepts such as range, quartiles, and percentiles.
 
 Probability: Learn the basics of probability theory, including probability distributions (e.g., normal, binomial, Poisson), conditional probability, and Bayes' theorem. Understand how to calculate probabilities and work with events.
