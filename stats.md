@@ -17,10 +17,10 @@
 
 When you decide to reject or fail to reject the null hypothesis, there are four possible outcomes–two represent correct choices, and two represent errors. You can: 
 
-1. Reject the null hypothesis when it’s actually true (Type I error)
+1. Reject the null hypothesis when it’s actually true (Type I error). (You're stating that there is a difference when there isn't.)
 2. Reject the null hypothesis when it’s actually false (Correct)
 3. Fail to reject the null hypothesis when it’s actually true (Correct) 
-4. Fail to reject the null hypothesis when it’s actually false (Type II error)
+4. Fail to reject the null hypothesis when it’s actually false (Type II error). (You're stating that there is no difference when there is.)
 
 ![image](https://github.com/jessicastow/coursera_google_advanced_data_analytics/assets/56385852/70953af5-c014-4989-b474-90801ea0e2ca)
 
